@@ -1,7 +1,7 @@
 import styles from './styles.module.css'
 
 export function GitHubShareButton() {
-  return (
+  return null; (
     <a
       href='https://github.com/transitive-bullshit/nextjs-notion-starter-kit'
       target='_blank'
